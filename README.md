@@ -1,2 +1,2 @@
 # thug-panda
-short desc
+This is about panda who is a thug. His name is Jomo.
